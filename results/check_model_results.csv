@@ -1,0 +1,46 @@
+instance,encoding,total_qubits,decision_qubits,aux_qubits,aux_pct,ground_state_ok,mean_physical_qubits,min_physical_qubits,max_chain_length
+1,paper,16,6,10,62,yes,30.8,30,3
+1,compact,8,4,4,50,yes,11.6,11,3
+1,unbalanced,5,4,1,20,yes,6.0,6,2
+2,paper,15,6,9,60,yes,28.2,26,3
+2,compact,7,4,3,43,yes,9.4,9,2
+2,unbalanced,5,4,1,20,yes,6.0,6,2
+3,paper,15,6,9,60,yes,28.2,26,3
+3,compact,6,3,3,50,yes,7.2,7,2
+3,unbalanced,4,3,1,25,"NO (0, 0, 1)",4.0,4,1
+4,paper,15,6,9,60,yes,28.2,26,3
+4,compact,7,4,3,43,yes,9.4,9,2
+4,unbalanced,5,4,1,20,"NO (0, 2, 0)",6.0,6,2
+5,paper,17,8,9,53,yes,38.3,36,4
+5,compact,10,6,4,40,yes,16.5,15,3
+5,unbalanced,7,6,1,14,"NO (0, 0, 2, 0)",10.3,10,3
+6,paper,18,8,10,56,yes,39.4,36,4
+6,compact,10,6,4,40,yes,16.5,15,3
+6,unbalanced,7,6,1,14,"NO (0, 0, 1, 1)",10.3,10,3
+7,paper,17,8,9,53,yes,38.3,36,4
+7,compact,10,6,4,40,yes,16.5,15,3
+7,unbalanced,7,6,1,14,"NO (2, 0, 0, 0)",10.3,10,3
+8,paper,17,8,9,53,yes,38.3,36,4
+8,compact,12,8,4,33,yes,23.6,22,3
+8,unbalanced,9,8,1,11,"NO (0, 2, 0, 0)",14.4,14,2
+9,paper,18,8,10,56,yes,39.4,36,4
+9,compact,10,6,4,40,yes,16.5,15,3
+9,unbalanced,7,6,1,14,"NO (0, 0, 1, 1)",10.3,10,3
+10,paper,17,8,9,53,yes,38.3,36,4
+10,compact,9,5,4,44,yes,13.7,13,3
+10,unbalanced,6,5,1,17,"NO (1, 0, 0, 0)",8.0,8,2
+11,paper,18,8,10,56,yes,39.4,36,4
+11,compact,11,6,5,45,yes,19.8,18,3
+11,unbalanced,7,6,1,14,yes,10.3,10,3
+12,paper,18,8,10,56,yes,39.4,36,4
+12,compact,10,6,4,40,yes,16.5,15,3
+12,unbalanced,7,6,1,14,"NO (0, 0, 0, 1)",10.3,10,3
+13,paper,15,6,9,60,yes,28.2,26,3
+13,compact,8,4,4,50,yes,10.7,10,2
+13,unbalanced,6,4,2,33,"NO (1, 0, 0)",8.0,8,2
+14,paper,19,10,9,47,yes,48.6,45,4
+14,compact,12,8,4,33,yes,23.6,22,3
+14,unbalanced,9,8,1,11,yes,14.4,14,2
+15,paper,19,10,9,47,yes,48.6,45,4
+15,compact,12,8,4,33,yes,23.6,22,3
+15,unbalanced,9,8,1,11,yes,14.4,14,2
